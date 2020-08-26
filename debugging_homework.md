@@ -16,7 +16,7 @@ Answer the following questions:
 1. What is the purpose of a breakpoint?  
 **Answer:** When we run the application, it will run as normal until it gets to the breakpoint, it then pauses the application and launches the debugger.  
   
-2. Does the line of code on a breakpoint run when you start debugging?
+2. Does the line of code on a breakpoint run when you start debugging?  
 **Answer:** No, the debugger is launched before that line.  
   
 3. How do we debug the next line of code?  
